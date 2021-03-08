@@ -1,0 +1,4 @@
+First name = Mohamed, Last name = Kittany, State = baqa, Role = FullStack, Email = m_love_1999@hotmail.com, Password = 123123, RePassword = 123123
+First name = asd, Last name = asd, State = asd, Role = asd, Email = asd@asd.ca, Password = asd, RePassword = asd
+First name = Nir, Last name = Chen, State = TheMilkyWay, Role = FullStack, Email = nir@nir.com, Password = 123, RePassword = 123
+First name = a, Last name = a, State = a, Role = a, Email = a@a.com, Password = 1234, RePassword = 1234
